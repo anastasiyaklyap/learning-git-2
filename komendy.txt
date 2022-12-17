@@ -1,0 +1,2 @@
+node_modules/.bin/browser-sync start --server --files "css/*.css" "*.html"
+npm exec html-validate index.html
